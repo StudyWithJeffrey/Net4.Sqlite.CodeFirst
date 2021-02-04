@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Data\\LY.ExamMonitor.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\Library\\System.Data.SQLite.EF6.Migrations\\System.Data.SQLite.EF6.Migrations.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\Library\\System.Data.SQLite.EF6.Migrations\\System.Data.SQLite.EF6.Migrations.csproj",
+        "projectName": "System.Data.SQLite.EF6.Migrations",
+        "projectPath": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\Library\\System.Data.SQLite.EF6.Migrations\\System.Data.SQLite.EF6.Migrations.csproj"
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    },
+    "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Core\\LY.ExamMonitor.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Core\\LY.ExamMonitor.Core.csproj",
+        "projectName": "LY.ExamMonitor.Core",
+        "projectPath": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Core\\LY.ExamMonitor.Core.csproj"
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    },
+    "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Data\\LY.ExamMonitor.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Data\\LY.ExamMonitor.Data.csproj",
+        "projectName": "LY.ExamMonitor.Data",
+        "projectPath": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Data\\LY.ExamMonitor.Data.csproj",
+        "packagesPath": "D:\\Users\\dell\\.nuget\\packages",
+        "outputPath": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "projectReferences": {
+              "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\Library\\System.Data.SQLite.EF6.Migrations\\System.Data.SQLite.EF6.Migrations.csproj": {
+                "projectPath": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\Library\\System.Data.SQLite.EF6.Migrations\\System.Data.SQLite.EF6.Migrations.csproj"
+              },
+              "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Core\\LY.ExamMonitor.Core.csproj": {
+                "projectPath": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Core\\LY.ExamMonitor.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "SQLite.CodeFirst": {
+              "target": "Package",
+              "version": "[1.6.1.31, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.113.7, )"
+            },
+            "System.Data.SQLite.EF6": {
+              "target": "Package",
+              "version": "[1.0.113, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

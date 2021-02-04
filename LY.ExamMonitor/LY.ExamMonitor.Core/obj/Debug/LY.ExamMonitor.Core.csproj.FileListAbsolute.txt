@@ -1,0 +1,10 @@
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\LY.ExamMonitor\LY.ExamMonitor.Core\bin\Debug\LY.ExamMonitor.Core.dll
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\LY.ExamMonitor\LY.ExamMonitor.Core\bin\Debug\LY.ExamMonitor.Core.pdb
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\LY.ExamMonitor\LY.ExamMonitor.Core\obj\Debug\LY.ExamMonitor.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\LY.ExamMonitor\LY.ExamMonitor.Core\obj\Debug\LY.ExamMonitor.Core.dll
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\LY.ExamMonitor\LY.ExamMonitor.Core\obj\Debug\LY.ExamMonitor.Core.pdb
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\src\LY.ExamMonitor\LY.ExamMonitor.Core\bin\Debug\LY.ExamMonitor.Core.dll
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\src\LY.ExamMonitor\LY.ExamMonitor.Core\bin\Debug\LY.ExamMonitor.Core.pdb
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\src\LY.ExamMonitor\LY.ExamMonitor.Core\obj\Debug\LY.ExamMonitor.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\src\LY.ExamMonitor\LY.ExamMonitor.Core\obj\Debug\LY.ExamMonitor.Core.dll
+D:\Projects\Ly.Git.SourceCode\LY.ExamMonitor.V3\src\LY.ExamMonitor\LY.ExamMonitor.Core\obj\Debug\LY.ExamMonitor.Core.pdb

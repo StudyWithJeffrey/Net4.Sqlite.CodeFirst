@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqlcziQL5lCjX3LDxcz+2iiwn04VMUEdoncUK2bgqGaOyiW5R+oRBQWlSZiL/exxsHZDAiiJW918qtcArKJa/A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Ly.Git.SourceCode\\LY.ExamMonitor.V3\\src\\LY.ExamMonitor\\LY.ExamMonitor.Data\\LY.ExamMonitor.Data.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\dell\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "D:\\Users\\dell\\.nuget\\packages\\sqlite.codefirst\\1.6.1.31\\sqlite.codefirst.1.6.1.31.nupkg.sha512",
+    "D:\\Users\\dell\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.113.3\\stub.system.data.sqlite.core.netframework.1.0.113.3.nupkg.sha512",
+    "D:\\Users\\dell\\.nuget\\packages\\system.data.sqlite\\1.0.113.7\\system.data.sqlite.1.0.113.7.nupkg.sha512",
+    "D:\\Users\\dell\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512",
+    "D:\\Users\\dell\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.113\\system.data.sqlite.ef6.1.0.113.nupkg.sha512",
+    "D:\\Users\\dell\\.nuget\\packages\\system.data.sqlite.linq\\1.0.113\\system.data.sqlite.linq.1.0.113.nupkg.sha512"
+  ],
+  "logs": []
+}
